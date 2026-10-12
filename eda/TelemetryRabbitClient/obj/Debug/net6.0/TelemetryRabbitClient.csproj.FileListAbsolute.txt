@@ -1,0 +1,17 @@
+D:\Projects\learn\eda\TelemetryRabbitClient\bin\Debug\net6.0\TelemetryRabbitClient.exe
+D:\Projects\learn\eda\TelemetryRabbitClient\bin\Debug\net6.0\TelemetryRabbitClient.deps.json
+D:\Projects\learn\eda\TelemetryRabbitClient\bin\Debug\net6.0\TelemetryRabbitClient.runtimeconfig.json
+D:\Projects\learn\eda\TelemetryRabbitClient\bin\Debug\net6.0\TelemetryRabbitClient.dll
+D:\Projects\learn\eda\TelemetryRabbitClient\bin\Debug\net6.0\TelemetryRabbitClient.pdb
+D:\Projects\learn\eda\TelemetryRabbitClient\bin\Debug\net6.0\RabbitMQ.Client.dll
+D:\Projects\learn\eda\TelemetryRabbitClient\obj\Debug\net6.0\TelemetryRabbitClient.csproj.AssemblyReference.cache
+D:\Projects\learn\eda\TelemetryRabbitClient\obj\Debug\net6.0\TelemetryRabbitClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\learn\eda\TelemetryRabbitClient\obj\Debug\net6.0\TelemetryRabbitClient.AssemblyInfoInputs.cache
+D:\Projects\learn\eda\TelemetryRabbitClient\obj\Debug\net6.0\TelemetryRabbitClient.AssemblyInfo.cs
+D:\Projects\learn\eda\TelemetryRabbitClient\obj\Debug\net6.0\TelemetryRabbitClient.csproj.CoreCompileInputs.cache
+D:\Projects\learn\eda\TelemetryRabbitClient\obj\Debug\net6.0\Telemetr.571F4DD9.Up2Date
+D:\Projects\learn\eda\TelemetryRabbitClient\obj\Debug\net6.0\TelemetryRabbitClient.dll
+D:\Projects\learn\eda\TelemetryRabbitClient\obj\Debug\net6.0\refint\TelemetryRabbitClient.dll
+D:\Projects\learn\eda\TelemetryRabbitClient\obj\Debug\net6.0\TelemetryRabbitClient.pdb
+D:\Projects\learn\eda\TelemetryRabbitClient\obj\Debug\net6.0\TelemetryRabbitClient.genruntimeconfig.cache
+D:\Projects\learn\eda\TelemetryRabbitClient\obj\Debug\net6.0\ref\TelemetryRabbitClient.dll
