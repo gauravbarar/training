@@ -1,0 +1,27 @@
+# Local dependencies only. The app runs from your IDE.
+services:
+  sql:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    container_name: opti-sql
+    environment:
+      ACCEPT_EULA: "Y"
+      MSSQL_SA_PASSWORD: "Opti@12345Local"
+    ports:
+      - "1433:1433"
+    volumes:
+      - sql-data:/var/opt/mssql
+
+  azurite:
+    image: mcr.microsoft.com/azure-storage/azurite:latest
+    container_name: opti-azurite
+    command: azurite --blobHost 0.0.0.0 --queueHost 0.0.0.0 --tableHost 0.0.0.0 --skipApiVersionCheck --loose
+    ports:
+      - "10000:10000"
+      - "10001:10001"
+      - "10002:10002"
+    volumes:
+      - azurite-data:/data
+
+volumes:
+  sql-data:
+  azurite-data:
